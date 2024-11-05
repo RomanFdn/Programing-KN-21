@@ -7,3 +7,4 @@ while True:
     elif msg == "Па Па":
         print("the end")
         break
+#Visual studio
