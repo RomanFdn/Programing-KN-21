@@ -7,4 +7,4 @@ while True:
     elif msg == "Па Па":
         print("the end")
         break
-#Better day
+#Better day 07.11
